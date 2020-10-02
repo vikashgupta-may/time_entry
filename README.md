@@ -1,4 +1,6 @@
 README.md
+
+
 This project is focused on the creation of an application (Python-Django) to record time-tracking information of employees via a user-friendly platform with multiple features that allow for easy control and display of the information.
 
 Starting the Application
